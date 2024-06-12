@@ -6,7 +6,7 @@ int main(){
     cin>>t;
     for(int i=0;i<t;i++){
         int n,k;
-        cin>>k;
+        cin>>n>>k;
         bool x=true;
         int z;
         cin>>z;
